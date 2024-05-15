@@ -554,5 +554,9 @@
             "Return",
             "Comment"
         ]
+    },
+    {
+        "name": "Klixel",
+        "ops": []
     }
 ]
